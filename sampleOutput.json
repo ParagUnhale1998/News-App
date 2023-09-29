@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": null,
+      "title": "Iowa State's Aidan Ralph accused of violent rape - ESPN",
+      "description": "Iowa State football player Aidan Ralph has been arrested on charges alleging that he raped a woman while she lay immobile after he shoved her so hard into stairs in his home that it fractured her spine.",
+      "url": "https://www.espn.com/college-football/story/_/id/37408047/iowa-state-aidan-ralph-accused-violent-rape",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0504%2Fr1168424_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-05-04T15:22:00Z",
+      "content": "AMES, Iowa -- An Iowa State football player has been arrested on charges alleging that he raped a woman while she lay immobile after he shoved her so hard into stairs in his home that it fractured he… [+1106 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "RJ Young, Michael Cohen, Bryan Fischer, Laken Litman",
+      "title": "College football's most important QBs: Key transfers, Heisman contenders and more",
+      "description": "The college football offseason has a number of intriguing quarterback storylines to watch across the nation.",
+      "url": "http://www.foxsports.com/stories/college-football/college-footballs-most-important-qbs-key-transfers-heisman-contenders-and-more",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/1408/814/05.03.23_CFB-Week-13-Roundtable_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2023-05-04T14:39:13Z",
+      "content": "In football, it's always been and always will be all about the quarterback.\r\nBut in this era of the transfer portal, there is even more intrigue around the position, as in addition to developing recr… [+19001 chars]"
+    },
+    {
+      "source": { "id": "four-four-two", "name": "FourFourTwo" },
+      "author": "Mark White",
+      "title": "Arsenal report: Transfer budget for the summer revealed, as Gunners plan biggest summer spend EVER",
+      "description": "Arsenal are set to spend more than they ever have done, as the Gunners return to the top table of European football",
+      "url": "https://www.fourfourtwo.com/news/arsenal-transfer-news-report-transfer-budget-for-the-summer-revealed-as-gunners-plan-biggest-summer-spend-ever-mikel-arteta-signings-rumours-gossip-paper-talk-afc",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JwySHVS4fuegPFcgPHJy8G-1200-80.jpg",
+      "publishedAt": "2023-05-04T08:30:10Z",
+      "content": "Arsenal manager Mikel Arteta will have more money to spend this summer than any other Gunners boss has ever had in a single window.\r\nThat's according to one report that has declared the north Londone… [+2507 chars]"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "talkSPORT",
+      "title": "Football news LIVE: Erling Haaland breaks Premier League record, Xabi Alonso in running for Tottenham job,...",
+      "description": "",
+      "url": "https://talksport.com/football/1412133/football-news-live-haaland-guardiola-messi-contract-boehly/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/05/JF-TALKSPORT-TRANSFERS-BLOG.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+      "publishedAt": "2023-05-04T08:05:05Z",
+      "content": "News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services."
+    },
+    {
+      "source": { "id": "reddit-r-all", "name": "Reddit /r/all" },
+      "author": null,
+      "title": "LSU motto - Fund Football, Not Libraries",
+      "description": null,
+      "url": "https://www.reddit.com/r/WhitePeopleTwitter/comments/136hslj/lsu_motto_fund_football_not_libraries/",
+      "urlToImage": null,
+      "publishedAt": "2023-05-03T16:52:23.3877643Z",
+      "content": null
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
